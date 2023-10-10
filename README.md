@@ -1,1 +1,1 @@
-New webhook integration added for demo
+SCM Poll demo using Jenkins & Github
